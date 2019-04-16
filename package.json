@@ -1,0 +1,23 @@
+{
+  "name": "prosto-no-ne-ponatno",
+  "version": "1.0.0",
+  "description": "Prosto-no-ne-ponatno",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vano97/Prosto-no-ne-ponatno.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vano97/Prosto-no-ne-ponatno/issues"
+  },
+  "homepage": "https://github.com/Vano97/Prosto-no-ne-ponatno#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}
